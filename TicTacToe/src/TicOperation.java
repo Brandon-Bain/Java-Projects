@@ -1,10 +1,10 @@
-import java.util.Scanner;
-
 /*
  * Brandon Bain
- * 11/20/2016
+ * 11/28/2016
  * Tic Tac Toe
  */
+
+import java.util.Scanner;
 
 public class TicOperation {
 
